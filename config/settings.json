@@ -1,0 +1,8 @@
+{
+  "_comment": "ค่าตั้งต้นของระบบ — ค่าจริงเก็บใน localStorage / กำหนด default ใน js/app.js (Settings.DEFAULTS)",
+  "scriptUrl": "https://script.google.com/macros/s/AKfycbz8ZKL1TJwNUGx_LRGMpJx060VtQsc-6YzrYR3lLBMUwCopfAN4Xujr3CsSLIO75763/exec",
+  "shopName": "Houseหมูกระทะ",
+  "totalTables": 10,
+  "currency": "THB",
+  "currencySymbol": "฿"
+}
