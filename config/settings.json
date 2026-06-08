@@ -1,8 +1,0 @@
-{
-  "_comment": "ไฟล์นี้เป็น template เท่านั้น — ค่าจริงเก็บใน localStorage ของเบราว์เซอร์",
-  "scriptUrl": "",
-  "shopName": "หมูกระทะ POS",
-  "totalTables": 10,
-  "currency": "THB",
-  "currencySymbol": "฿"
-}
