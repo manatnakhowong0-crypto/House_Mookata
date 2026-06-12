@@ -1,7 +1,0 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#2D1A0E" rx="12"/>
-  <rect x="1" y="1" width="198" height="198" fill="none" stroke="#FF450033" stroke-width="2" rx="11"/>
-  <text x="100" y="95" font-size="64" text-anchor="middle" dominant-baseline="middle">🥚</text>
-  <text x="100" y="155" font-size="13" fill="#FFF5E6" text-anchor="middle" font-family="sans-serif" font-weight="bold">เต้าหู้ไข่</text>
-  <text x="100" y="175" font-size="10" fill="#AA887088" text-anchor="middle" font-family="sans-serif">วางภาพของคุณที่นี่</text>
-</svg>
